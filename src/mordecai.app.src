@@ -1,0 +1,4 @@
+{application, mordecai,
+ [{description, "The simulation."},
+  {vsn, git}
+ ]}.
